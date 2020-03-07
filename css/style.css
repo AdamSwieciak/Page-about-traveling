@@ -1,0 +1,58 @@
+*,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway", sans-serif;
+}
+.main {
+  min-height: 100vh;
+  background-image: url(../img/form-background.jpg);
+  background-position: top;
+  background-size: cover;
+}
+.color_grey {
+  color: #c2c2c2;
+}
+.color_orange {
+  color: #e38f42;
+}
+.color_white {
+  color: white;
+}
+.btn_inline {
+  display: inline-block;
+}
+.nav-link:hover {
+  color: #fff;
+}
+.bgc_dark {
+  background-color: rgba(0, 0, 0, 0.294);
+}
+.bgc_darkhigh {
+  background-color: rgba(0, 0, 0, 0.548);
+}
+.bgc_orange {
+  background-color: rgb(250, 174, 33);
+}
+.main-size {
+  font-size: 36px;
+}
+.pUndH1 {
+  font-size: 18px;
+}
+.formTitle {
+  font-size: 15px;
+}
+section {
+  position: relative;
+}
+.middle {
+  min-height: 50vh;
+}
+footer {
+  background-color: rgb(223, 215, 215);
+  min-height: 30vh;
+}
+.mainheig {
+  height: 90vh;
+}
